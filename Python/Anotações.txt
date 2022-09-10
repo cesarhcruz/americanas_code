@@ -1,0 +1,55 @@
+.LOG
+
+11:54 02/09/2022
+python.org
+
+IDE - Interpretador de Codigo(Vs Code)
+
+Aula 02
+
+- Código é baseado com algoritimo
+
+- Algoritimo é um conjunto de instruções(ex. receita de bolo).
+
+- Como um Algoritimo é coinstruído
+	- Entradas de dados(ex. ingredientes)
+	- Processamento dos dados(ex. receita)
+	- Saída de dados(ex. bolo)
+
+
+Comandos Python
+	- print - imprimir na tela o valor(saida de dados) - print("");
+	- input - recebe alguma entrada
+	
+
+Aula 03 - Váriaveis
+
+- Comentários - Facilitar entender o código
+
+Tipos de variáveis
+
+1. Int - números inteiros
+2. Float - números reais
+3. str - string - cadeias de caracteres
+4. bool - valores lógicos(true, false)
+
+Case Sensitive - diferencia Maiuscula de Minuscula
+
+Aula 04
+
+Operadores Aritméticos e Boolenos
+
+Tabela ASCII
+
+Aula 05
+
+Conversão de Tipos
+
+Python tem tipagem dinâmica.
+
+Python sempre trata algo digitado com string
+
+
+Aula 06
+
+Estrutura condicionais
